@@ -1,0 +1,27 @@
+.dropdown:hover .dropdown-menu {
+    display: block;
+    /* margin-top: 0; */
+}
+
+.btn-outline-success {
+    color: chocolate;
+    border-color: chocolate;
+}
+
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: chocolate;
+    border-color: chocolate;
+}
+
+.btn-outline-success:visited {
+    color: #fff;
+    background-color: chocolate;
+    border-color: chocolate;
+}제이쿼리 네비 누르면 스크롤css
+
+.btn-outline-success:active {
+    color: #fff;
+    background-color: chocolate;
+    border-color: chocolate;
+}
