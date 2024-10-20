@@ -16,8 +16,8 @@
 
 .btn-outline-success:visited {
     color: #fff;
-    background-color: chocolate;
-    border-color: chocolate;
+    background-color: chocolate!important;
+    border-color: chocolate!important;
 }
 
 .btn-outline-success:active {
@@ -26,8 +26,6 @@
     border-color: chocolate!important;
 }
 
-button:active {
-    color: #fff;
-    background-color: chocolate;
-    border-color: chocolate;
+.container {
+    width: 100px;
 }
